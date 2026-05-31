@@ -210,7 +210,7 @@ public class MainActivity extends AppCompatActivity {
 
             shareIntent.setType("text/plain");
 
-            shareIntent.putExtra(Intent.EXTRA_TEXT,"EZakat Gold Calculator App\n\nDownload here:\nhttps://github.com/yourusername/ezakatgoldcalculator");
+            shareIntent.putExtra(Intent.EXTRA_TEXT,"EZakat Gold Calculator App\n\nDownload here:\nhttps://github.com/anisaasri17/ezakat-gold-calculator.git");
 
             startActivity(Intent.createChooser(shareIntent, "Share via"));
 

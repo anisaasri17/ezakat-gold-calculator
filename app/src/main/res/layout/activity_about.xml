@@ -173,7 +173,7 @@
                     android:autoLink="web"
                     android:linksClickable="true"
                     android:layout_marginTop="18dp"
-                    android:text="https://github.com/anisaasri17/ezakat-gold-calculator"
+                    android:text="https://github.com/anisaasri17/ezakat-gold-calculator.git"
                     android:textColor="#1565C0"
                     android:textSize="15sp"
                     android:textStyle="bold" />

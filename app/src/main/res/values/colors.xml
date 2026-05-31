@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="primary">#0A2342</color>
+
+    <color name="primary_dark">#05172D</color>
+    <color name="gold">#D4AF37</color>
+    <color name="light_gold">#F8E7B5</color>
+    <color name="cream">#F8F6F1</color>
+    <color name="red_btn">#C62828</color>
+
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+</resources>

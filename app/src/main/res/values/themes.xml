@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Base.Theme.EZakatGoldCalculator"
+        parent="Theme.Material3.DayNight.NoActionBar">
+
+        <item name="colorPrimary">#0F5132</item>
+
+        <item name="android:statusBarColor">#083A23</item>
+
+        <item name="colorOnPrimary">@android:color/white</item>
+
+    </style>
+
+    <style name="Theme.EZakatGoldCalculator"
+        parent="Base.Theme.EZakatGoldCalculator"/>
+
+</resources>

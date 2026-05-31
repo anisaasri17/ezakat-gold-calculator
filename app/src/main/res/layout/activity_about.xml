@@ -202,7 +202,7 @@
                     android:autoLink="web"
                     android:linksClickable="true"
                     android:layout_marginTop="18dp"
-                    android:text="https://youtube.com/your-video-link"
+                    android:text="https://youtube.com/"
                     android:textColor="#1565C0"
                     android:textSize="15sp"
                     android:textStyle="bold" />

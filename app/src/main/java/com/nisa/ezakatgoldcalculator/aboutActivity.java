@@ -47,7 +47,7 @@ public class aboutActivity extends AppCompatActivity {
         tvYoutube.setOnClickListener(v -> {
             Intent intent = new Intent(
                     Intent.ACTION_VIEW,
-                    Uri.parse("https://youtube.com/your-video-link")
+                    Uri.parse("https://youtube.com/")
             );
             startActivity(intent);
         });
